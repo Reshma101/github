@@ -241,7 +241,7 @@ else{
             console.log(current);
             console.log(current.temperature);
             }
-        });
+        });console.log("hjuyg");
     }
 }
 })//passing particular areas lati ad longi and temperature
