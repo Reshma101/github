@@ -1,0 +1,21 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "First NodeJS application",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reshma",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "mod": "0.0.0",
+    "request": "^2.88.2",
+    "url": "^0.11.0",
+    "validator": "^13.6.0"
+  },
+  "devDependencies": {}
+}
